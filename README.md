@@ -3,11 +3,6 @@
 ## Introduction
 This repository is to save the practice code snippets as well as assignments for future references. 
 
-
-## Day 01 Topics
-
-- Go tooling commands
-- Variables and constants
-- Datatypes and zero values
-- Functions
-
+## Works
+- Tasks and assignments are uploaded under the respective dates folder. 
+- Folders are named in the naming convention mm-dd-yyyy format. 
